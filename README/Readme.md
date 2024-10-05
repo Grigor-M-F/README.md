@@ -54,6 +54,6 @@ er<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
 
 ###
 
-<img align="right" height="150" src="https://www.8pdev.studio/upload/2021/06/empresa_site_riopreto.gif"  />
+<img align="center" height="150" src="https://www.8pdev.studio/upload/2021/06/empresa_site_riopreto.gif"  />
 
 ###

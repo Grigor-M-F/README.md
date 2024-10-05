@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
+er<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Computer science student, starting a career in the field.</p>
+<p align="center">Computer science student, starting a career in the field.</p>
 
 ###
 
@@ -32,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://www.8pdev.studio/upload/2021/06/empresa_site_riopreto.gif"  />
 
 ###
 

@@ -1,4 +1,4 @@
-er<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
+<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
 
 ###
 

@@ -17,6 +17,10 @@ er<h1 align="center">Hi 👋! I am Grigor Mascarenhas.</h1>
   <a href="mailto:grigor12f@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="grigor.ferreira@sptech.school">
+      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 </div>
 
 ###
